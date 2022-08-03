@@ -36,11 +36,12 @@ Make sure to also create a README.md file that summarises your models and findin
 
 * Note how volatility spiked, and tended to stay high, during the first half of 2020. This is a common characteristic of volatility in stock returns worldwide: high volatility days tend to be followed by yet more high volatility days. When it rains, it pours.
 
-![Stock_Volatility](Images/Stock_Volatility.png)
+![Stock_Volatility](Images/stock_volatility.png)
 
 
 
 * In hour of day plot, 0:00 shows the greatest popularity.Tuesday gets the most search traffic.Mid Oct is the lowest point for search traffice in the year.
+
 ![fig_mercado_trends_plot](Images/fig_mercado_trends_plot.png)
 
 
@@ -48,6 +49,7 @@ Make sure to also create a README.md file that summarises your models and findin
 * The forecast shows the popularity of MercadoLibre may have a drop in Oct 2020.
 
 ![MercadoLibre_trends_forecast](Images/MercadoLibre_trends_forecast.png)
+
 
 * The quarterly sales forecast shows that the total sales for next quarter most likely will be  969.6m.The best scenario,it could go higher up to 1051.46m. The worst scenario, it could go lower to $887.24m.
 
